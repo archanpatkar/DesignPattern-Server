@@ -1,0 +1,15 @@
+the use of initializer is that its for pre-during-post for custom logic for the server
+1 before server 
+2 during making the conversation thread
+3 after the server is down
+
+
+1 before conversation 
+2 during conversation
+3 after  conversation
+
+
+etc...
+
+
+and use of Reflection
