@@ -12,3 +12,7 @@ index e69de29..321d82a 100644
 +exclude_paths:
 +- dist/
 +- test/
++ratings:
++   paths:
++   - "src/**/*"
++   - "**.java"
