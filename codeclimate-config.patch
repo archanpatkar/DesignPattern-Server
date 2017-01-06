@@ -9,6 +9,7 @@ index e69de29..321d82a 100644
 +    enabled: true
 +ratings:
 +  paths: [src/com/archanpatkar/**/*]
++  /src/com/archanpatkar/Server/*
 +  - "**.java"
 +exclude_paths:
 +- dist/
