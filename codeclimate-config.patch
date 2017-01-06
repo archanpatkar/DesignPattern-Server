@@ -8,12 +8,8 @@ index e69de29..321d82a 100644
 +  fixme:
 +    enabled: true
 +ratings:
-+  paths: []
++  paths: [src/com/archanpatkar/**/*]
++  - "**.java"
 +exclude_paths:
 +- dist/
 +- test/
-+
-+ratings:
-+  paths:
-+  - "**.java"
-
